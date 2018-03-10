@@ -1,0 +1,41 @@
+﻿  ConsoleApplication1.cpp
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(150): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(178): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(179): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(181): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(182): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(186): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(188): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(189): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(192): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(194): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(195): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(198): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(200): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(201): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(204): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(211): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(244): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(246): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(256): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(297): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(310): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(321): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(357): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(369): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(371): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(481): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(482): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(523): warning C4002: too many actual parameters for macro 'assert'
+c:\users\usuario\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(591): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Usuario\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Usuario\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
